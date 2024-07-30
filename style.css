@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(92, 11, 168);
+}
+
+/*Navbar*/
+
+/*Introduction*/
+#intro {
+    color: white;
+    padding-top: 5%;
+    
+}
+.introtitle {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+    
+}
+
+/*Research*/
+#research {
+    color: white;
+    padding-top: 5%;
+}
+.researchtitle {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+/*Problem Statement*/
+#ps {
+    color: white;
+    padding: 5%;
+}
+.pstitle {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+    
+}
+/*Iterations*/
+#iterations {
+    color: white;
+    padding-top: 5%;
+}
+.itertitle {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+/*Prototype*/
+#prototype {
+    color: white;
+    padding-top: 5%;
+}
+.itertitle {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
